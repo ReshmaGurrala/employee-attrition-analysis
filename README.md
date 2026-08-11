@@ -108,7 +108,7 @@ An interactive Power BI dashboard was developed to help HR teams monitor employe
 
 ### Dashboard Preview
 
-![Employee Attrition HR Dashboard](Employee_Attrition_HR_Dashboard.png)
+![Employee Attrition HR Dashboard](Employee_Attrition_HR_Dashboard.png.png)
 
 ## 💡 Key Business Insights
 
